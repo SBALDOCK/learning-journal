@@ -1,6 +1,6 @@
-# This is Steve's Stellar Code 102 Learning-journal
+# This is Steve's Stellar Code 102 Learning-journal #
 
-*I'm currently working on learning the basics of Markdown, you dig?*
+## *I'm currently working on learning the basics of Markdown, you dig?* ##
 
 ### You may ask yourself, "Self, What is a Growth Mindset anyway?"
 
