@@ -13,3 +13,5 @@ A quote comes to mind that touches on the idea of a Growth Mindset...
 - Embrace challenges
 - Persist through obstacles
 - Learn from criticism
+
+:+1::+1::+1::+1:
