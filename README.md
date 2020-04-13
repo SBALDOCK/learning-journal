@@ -14,6 +14,6 @@ A quote comes to mind that touches on the idea of a Growth Mindset:
 - Persist through obstacles
 - Learn from criticism
 
-[Check out more here!](https:github.com/SBALDOCK)
+[Check out more here!](https://github.com/SBALDOCK)
 
 
