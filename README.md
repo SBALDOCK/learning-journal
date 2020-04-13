@@ -8,7 +8,7 @@
 
 A quote comes to mind that touches on the idea of a Growth Mindset...
 
-*> "If you will it, it is no dream*"  Theodore Hertzl, State Of Israel
+>*If you will it, it is no dream*  Theodore Hertzl, State Of Israel
 
 - Embrace challenges
 - Persist through obstacles
