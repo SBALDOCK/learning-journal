@@ -14,5 +14,14 @@ I have three things I'd like you to do, which you can mark complete with an X wh
 - [ ] Review some basic information about Github Pages [here](https://pages.github.com/)
 - [ ] Create a Github account to check out all the cool things you can do!
 
+#### Let's chat a bit about Github Pages
 
+Github is a simple way to create a website and share your cool ideas with the world. With just a few clicks, put something beautiful into the world with little or no technical knowledge at all!
+
+Here are some basic steps to get set up:
+
+1. Go to [Github](www.github.com) and create a new repository
+2. Scroll down to Github pages and choose a theme
+3. Use the editor to edit your content and create your beautiful site
+4. ** Select _commit changes_ when you are sure about the content you've created **
 
