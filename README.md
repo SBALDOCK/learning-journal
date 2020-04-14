@@ -18,4 +18,10 @@ A quote comes to mind that touches on the idea of a Growth Mindset:
 
 [Check out more here!](https://github.com/SBALDOCK)
 
+### Table Of Contents
+
+[Learning-Markdown](Learning-Markdown.md)
+
+[TextEditors](TextEditors.md)
+
 
