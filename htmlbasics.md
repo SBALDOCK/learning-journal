@@ -1,1 +1,1 @@
-[Main Page](README.md)
+[main page](README.md)

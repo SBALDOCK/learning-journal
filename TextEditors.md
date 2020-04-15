@@ -50,3 +50,5 @@ manager, a compiler, and a debugger all in one software package.
   * Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error.
 * **Absolute Paths** - Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / ).
 * **Relative Paths** - Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+[main page](README.md)
