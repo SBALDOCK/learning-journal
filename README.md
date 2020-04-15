@@ -20,4 +20,6 @@
 
 [cssbasics](cssbasics.md)
 
+[javascript](javascript.md)
+
 [Check out more here!](https://github.com/SBALDOCK)
