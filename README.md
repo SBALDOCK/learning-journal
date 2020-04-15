@@ -20,8 +20,8 @@ A quote comes to mind that touches on the idea of a Growth Mindset:
 
 ### Table Of Contents
 
-[Learning-Markdown](./Journal/Learning-Markdown.md)
+[Learning-Markdown](Learning-Markdown.md)
 
-[TextEditors](./Journal/TextEditors.md)
+[TextEditors](TextEditors.md)
 
-[revisionsandcloud](./Journal/revisionsandcloud.md)
+[revisionsandcloud](revisionsandcloud.md)
