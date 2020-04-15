@@ -50,4 +50,6 @@
 
     ## Someday, this will all make sense to me!
 
+    [main page](README.md)
+
 
