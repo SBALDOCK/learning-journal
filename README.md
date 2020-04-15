@@ -16,4 +16,6 @@
 
 [growthmindset](growthmindset.md)
 
+[htmlbasics](htmlbasics.md)
+
 [Check out more here!](https://github.com/SBALDOCK)
