@@ -25,3 +25,4 @@ Here are some basic steps to get set up:
 3. Use the editor to edit your content and create your beautiful site
 4. ** Select _commit changes_ when you are sure about the content you've created **
 
+[Main Page](README.md)
