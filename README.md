@@ -24,4 +24,6 @@
 
 [architectureandlogic](architectureandlogic.md)
 
+[javascriptprogramming](javascriptnotes.md)
+
 [Check out more here!](https://github.com/SBALDOCK)
