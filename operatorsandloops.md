@@ -1,6 +1,6 @@
-### Comparison Operators
+## Comparison Operators
 
-## Usually return single values of true or false
+### Usually return single values of true or false
 
 * == - Is equal to
 * != - Is not equal to
@@ -11,9 +11,9 @@
 * >= - greater than or equal to
 * <= - less than or equal to
 
-### Logical Operators
+## Logical Operators
 
-## Compare results of more than one comparison operator
+### Compare results of more than one comparison operator
 
 * && - Logical And 
     * If both return true, expression returns true. If just one returns false, then express is false
@@ -27,9 +27,9 @@
     * !true returns false
     * !false returns true
 
-### Loops
+## Loops
 
-## Loops check a condition. If it returns true, a code block will run. It repeats until the condition returns false
+### Loops check a condition. If it returns true, a code block will run. It repeats until the condition returns false
 
 * For - If you need run code a specific number of times
     * Most common loop
@@ -37,7 +37,7 @@
     * Continues to loop as long as the condition is true
 * Do While - Similar to While, but always run the statements inside the curly brackets at least once, even if the condition evaluates to false.
 
-## Loop Counters instruct the code to run a specific number of times
+### Loop Counters instruct the code to run a specific number of times
 
 * Initialization - Create a variable and set it to 0. 
     * Also called "i". Acts as counter
